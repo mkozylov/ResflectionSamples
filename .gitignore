@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/ReflectionSamples/bin/Debug/netcoreapp3.1
+/ReflectionSamples/obj
+/ReflectionSamples.Plugin/obj
+/ReflectionSamples.Plugin/bin/Debug/netcoreapp3.1
+/ReflectionSamples.Abstracts/obj
+/ReflectionSamples.Plugins.Abstracts/obj
+/ReflectionSamples.Plugins.Abstracts/bin/Debug/netcoreapp3.1
